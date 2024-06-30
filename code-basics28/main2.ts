@@ -1,0 +1,1 @@
+type OrderStatus = 'Created' | 'Paid' | 'Shipped' | 'Delivered';
