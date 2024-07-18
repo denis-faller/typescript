@@ -1,0 +1,1 @@
+var runApp = function (ctx) { };
